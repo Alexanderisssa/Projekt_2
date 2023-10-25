@@ -1,2 +1,2 @@
 # Projekt_2
-repo1
+Alexander Eissa, ELA22
