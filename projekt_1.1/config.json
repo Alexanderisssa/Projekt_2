@@ -1,0 +1,4 @@
+{
+    "uart_port": "UART1",
+    "measurement_interval": 60
+}
